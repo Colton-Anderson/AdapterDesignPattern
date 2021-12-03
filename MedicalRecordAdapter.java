@@ -1,3 +1,7 @@
+/**
+ * @Author Colton Anderson
+ * Creates Instance of the Medical Record Adapter
+ */
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
